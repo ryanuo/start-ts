@@ -6,9 +6,14 @@
 [![JSDocs][jsdocs-src]][jsdocs-href]
 [![License][license-src]][license-href]
 
+_description_
+
+> **Note**:
+> Replace `pkg-ph`, `_description_` globally to use this template.
+
 ## License
 
-[MIT](./LICENSE) License © 2023-PRESENT [Anthony Fu](https://github.com/rr210)
+[MIT](./LICENSE) License © 2023-PRESENT [RyanCo](https://github.com/rr210)
 
 <!-- Badges -->
 
