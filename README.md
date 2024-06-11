@@ -13,7 +13,7 @@ _description_
 
 ## License
 
-[MIT](./LICENSE) License © 2023-PRESENT [RyanCo](https://github.com/rr210)
+[MIT](./LICENSE) License © 2023-PRESENT [RyanCo](https://github.com/ryanuo)
 
 <!-- Badges -->
 
@@ -23,7 +23,7 @@ _description_
 [npm-downloads-href]: https://npmjs.com/package/pkg-ph
 [bundle-src]: https://img.shields.io/bundlephobia/minzip/pkg-ph?style=flat&colorA=080f12&colorB=1fa669&label=minzip
 [bundle-href]: https://bundlephobia.com/result?p=pkg-ph
-[license-src]: https://img.shields.io/github/license/rr210/pkg-ph.svg?style=flat&colorA=080f12&colorB=1fa669
-[license-href]: https://github.com/rr210/pkg-ph/blob/main/LICENSE
+[license-src]: https://img.shields.io/github/license/ryanuo/pkg-ph.svg?style=flat&colorA=080f12&colorB=1fa669
+[license-href]: https://github.com/ryanuo/pkg-ph/blob/main/LICENSE
 [jsdocs-src]: https://img.shields.io/badge/jsdocs-reference-080f12?style=flat&colorA=080f12&colorB=1fa669
 [jsdocs-href]: https://www.jsdocs.io/package/pkg-ph

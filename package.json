@@ -6,13 +6,13 @@
   "description": "_description_",
   "author": "RyanCo <ryanco@aliyun.com>",
   "license": "MIT",
-  "funding": "https://github.com/sponsors/rr210",
-  "homepage": "https://github.com/rr210/pkg-ph#readme",
+  "funding": "https://github.com/sponsors/ryanuo",
+  "homepage": "https://github.com/ryanuo/pkg-ph#readme",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/rr210/pkg-ph.git"
+    "url": "git+https://github.com/ryanuo/pkg-ph.git"
   },
-  "bugs": "https://github.com/rr210/pkg-ph/issues",
+  "bugs": "https://github.com/ryanuo/pkg-ph/issues",
   "keywords": [],
   "sideEffects": false,
   "exports": {
