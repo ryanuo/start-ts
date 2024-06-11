@@ -13,7 +13,7 @@ _description_
 
 ## License
 
-[MIT](./LICENSE) License © 2023-PRESENT [RyanCo](https://github.com/ryanuo)
+[MIT](./LICENSE) License © 2023-PRESENT [ryanuo](https://github.com/ryanuo)
 
 <!-- Badges -->
 
